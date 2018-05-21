@@ -1,4 +1,4 @@
-![example](https://github.com/CyberCidades/Chat_com_WebSocket)
+![example](https://github.com/CyberCidades/Chat_com_WebSocket/blob/master/example.gif)
 
 ## Resume
 Simple-Chat-Socket.io is a chat script created with NodeJS and Socket.io.
